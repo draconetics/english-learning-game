@@ -1,0 +1,30 @@
+.word-list{
+    width: 100%;
+}
+.word-list__container{
+    width: 100%;
+    max-width: 1200px;
+    margin:auto;
+}
+
+.word-list__container ul li{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    border: 1px solid black;
+}
+
+.word-list__header{
+    font-weight: 700;
+}
+
+.word-list__id,
+.word-list__word,
+.word-list__operations{
+    padding: 1rem;
+}
+
+.word-list__word{
+    flex:1;
+}

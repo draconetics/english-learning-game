@@ -1,0 +1,9 @@
+.App__menu{
+    background-color: #ececec;
+    width: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2rem;
+    font-size: 2rem;
+}

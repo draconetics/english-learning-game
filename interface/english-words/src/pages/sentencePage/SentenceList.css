@@ -1,0 +1,15 @@
+.sentence-list ul li{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+}
+
+.sentence-list ul li div{
+    padding:1rem;
+}
+
+textarea{
+    font-size: 2rem;
+    width: 100%;
+}
